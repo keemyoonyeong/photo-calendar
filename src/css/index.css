@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*  color palette generator: https://palx.jxnblk.com/ */
+
+.spa {
+    @apply w-full h-screen overflow-hidden;
+}
