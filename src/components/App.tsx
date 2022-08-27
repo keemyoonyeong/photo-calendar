@@ -10,8 +10,8 @@ export function App() {
   return (
     <div className="spa bg-base dark:bg-base-dark">
       <h1>Start Calendar</h1>
-      <RenderDays />
-      <Calendar />
+      {/* <RenderDays />
+      <Calendar /> */}
     </div>
   );
 }
